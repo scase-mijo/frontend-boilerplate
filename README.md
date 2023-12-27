@@ -1,5 +1,9 @@
 # frontend-boilerplate
 
+## 前提となる環境
+- Node.js v18 以上
+- npm v9 以上
+
 ## セットアップと動作確認
 
 ```shell
